@@ -1,0 +1,23 @@
+body {
+    background-color: #e09e00;
+    text-align: center;
+    font-family: verdana, helvetica, sans-serif;
+    font-size: 1.3em;
+}
+main input { 
+    background-color: white;
+    font-size: 6vw;
+    width: 200px;
+    height: 200px;
+    margin: 2px;
+    color: white;
+}
+
+
+#jogador { 
+    display: inline;
+}
+
+h1 { 
+
+}

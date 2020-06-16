@@ -19,5 +19,12 @@ main input {
 }
 
 h1 { 
+    color: white;
+}
 
+#Reiniciar {
+    margin-top: 2%;
+    width: 20vw;
+    height: 5vw;
+    font-size: 1em;
 }
